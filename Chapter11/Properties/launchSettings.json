@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chapter11": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7186",
+      "launchBrowser": false
+    }
+  }
+}
