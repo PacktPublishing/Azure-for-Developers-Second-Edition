@@ -1,0 +1,32 @@
+apiVersion: 2019-12-01
+location: eastus
+name: handsonazuregroup
+properties:
+  containers:
+  - name: helloworld
+    properties:
+      image: mcr.microsoft.com/azuredocs/aci-helloworld:latest
+      resources:
+        requests:
+          cpu: 1
+          memoryInGb: 1.5
+      ports:
+      - port: 80
+      - port: 8080
+  - name: sidecar
+    properties:
+      image: mcr.microsoft.com/azuredocs/aci-tutorial-sidecar
+      resources:
+        requests:
+          cpu: 1
+          memoryInGb: 1.5
+  osType: Linux
+  ipAddress:
+    type: Public
+    ports:
+    - protocol: tcp
+      port: 80
+    - protocol: tcp
+      port: 8080
+tags: {exampleTag: handsonazure}
+type: Microsoft.ContainerInstance/containerGroups
