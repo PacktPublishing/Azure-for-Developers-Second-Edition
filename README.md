@@ -42,7 +42,7 @@ Cache-Control: no-cache
 **Following is what you need for this book:**
 This book is for developers and IT professionals who want to learn Microsoft Azure by developing applications based on various cloud services. Prior knowledge of software development and the basics of software architecture and Azure services give you an advantage.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-25).
 
 ### Software and Hardware List
 
