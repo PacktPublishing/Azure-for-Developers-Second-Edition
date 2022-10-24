@@ -64,3 +64,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Kamil Mrzygłód**
 He is is a skilled software developer, architect, and Microsoft Azure MVP. He is focused on delivering fast, reliable, and flexible cloud solutions based on the Microsoft Azure platform. He has spoken at multiple conferences and meetups, working on open source software (OSS) projects and driving workshops for different people and companies. In recent years, he has developed an interest in Azure serverless architectures, data analysis, and big data components. Currently, he works as an independent cloud consultant for various clients. His current goal is to make the world of cloud computing as accessible as it can be so that it's possible to lower the learning curve of this technology and help others start using it.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803240091">https://packt.link/free-ebook/9781803240091 </a> </p>
